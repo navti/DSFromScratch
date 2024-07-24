@@ -1,0 +1,3 @@
+<h1 class="code-line" data-line-start=1 data-line-end=2 ><a id="Custom_Heap_1"></a>Custom Heap</h1>
+<p class="has-line-data" data-line-start="3" data-line-end="4">This is a sample implementation of heap data structure. Heaps (priority queues) are conceptually binary trees and implemented as arrays physically in memory.</p>
+<p class="has-line-data" data-line-start="5" data-line-end="6">If the parent node is at index pidx, then the left child is at the index 2*pidx + 1 and the right child is at the index 2*pidx + 2 in the array.</p>
